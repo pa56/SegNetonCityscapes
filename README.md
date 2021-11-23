@@ -4,7 +4,7 @@ Implementation of SegNet(https://arxiv.org/abs/1511.00561) on the cityscape data
 The project focuses on the pixel level semantic segmentation of urban scenarios by implementing segnet deep convolutional neural
 network architecture.
 
-The model architecture was coded on colab jupyter notebook, and dataset used is available in the dataset folder.
+The model architecture was coded on colab jupyter notebook, and dataset used is from cityscape dataset.
 
 Following is the example of some urban images and ground truth for semantic segmentation.
 
